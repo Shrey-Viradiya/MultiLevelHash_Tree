@@ -18,6 +18,15 @@
     <ClInclude Include="SingleHash.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="FourLevelHash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AVL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AVLutilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
